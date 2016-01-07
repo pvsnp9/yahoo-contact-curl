@@ -5,8 +5,8 @@ session_start();
  */
 
 // Fill in the next two constants
-define('OAUTH_CONSUMER_KEY', 'dj0yJmk9Z2tYcnAxVmFkMVR2JmQ9WVdrOVRVUkxZVEZUTkdVbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD1kYQ--');
-define('OAUTH_CONSUMER_SECRET', '491385962c517fe8d4308b2a64de5b5fdeba1897');
+define('OAUTH_CONSUMER_KEY', 'KEY');
+define('OAUTH_CONSUMER_SECRET', 'SECRET');
 
 //$progname = $argv[0];
 $debug = 0; // Set to 1 for verbose debugging output
